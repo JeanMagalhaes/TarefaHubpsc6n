@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="abee97c6-8525-485b-bd10-dfba03f5261b" name="Changes" comment="feat: create model usuario">
-      <change afterPath="$PROJECT_DIR$/src/main/java/GerenciadorProjetosApp.java" afterDir="false" />
+    <list default="true" id="abee97c6-8525-485b-bd10-dfba03f5261b" name="Changes" comment="feat: model projeto">
+      <change afterPath="$PROJECT_DIR$/src/main/java/models/Tarefa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,12 +95,30 @@
       <option name="project" value="LOCAL" />
       <updated>1748044040718</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="test: database persistence usuario">
+      <option name="closed" value="true" />
+      <created>1748046115152</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1748046115152</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat: model projeto">
+      <option name="closed" value="true" />
+      <created>1748046470077</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1748046470077</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chore: database maven config" />
     <MESSAGE value="feat: create model usuario" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: create model usuario" />
+    <MESSAGE value="test: database persistence usuario" />
+    <MESSAGE value="feat: model projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: model projeto" />
   </component>
 </project>
